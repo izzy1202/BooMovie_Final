@@ -4,9 +4,13 @@
 담당 역할 : 고객센터 메인, 자주하는 질문 게시판, 공지사항 게시판
 
 ## 공지사항 게시판
-![image](https://user-images.githubusercontent.com/106478906/232182727-ff676638-c5d1-4fb1-ae87-393dd1a88dab.png)
+![image](https://user-images.githubusercontent.com/106478906/233557976-2e8d262f-d2e2-4aed-a8bb-e8282b965a34.png)
 
 - 페이징 처리 
+- 관리자로 로그인 시 공지사항 관리 페이지로 이동
+
+### 공지사항 관리 페이지
+![image](https://user-images.githubusercontent.com/106478906/233557607-0c7a7ca2-e9ca-4291-a298-b73850a624fe.png)
 
 ### 공지사항 등록 페이지
 ![image](https://user-images.githubusercontent.com/106478906/232182815-dc303966-2def-4336-8c66-610969fd8ba6.png)
