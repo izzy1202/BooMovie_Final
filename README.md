@@ -48,7 +48,7 @@
 ### 자주하는 질문 수정 페이지
 ![image](https://user-images.githubusercontent.com/106478906/233576438-83c00df4-bb97-461b-b001-3b819325b84a.png)
 ![image](https://user-images.githubusercontent.com/106478906/233576505-c4f7b0dc-7656-43d5-9b8a-9c6307de256d.png)
-- 카테고리 변경 시 바뀐 카테고리로 이동되도록 
+- 카테고리 변경 시  바뀐 카테고리로 이동되도록 구현
 
 
 
