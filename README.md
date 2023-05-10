@@ -1,9 +1,14 @@
 # BooMovie_Final
 영화값 상승으로 영화 선택에 신중해진 관람객들을 위해 실 관람객의 평가를 적극 반영하여 개인의 취향을 상세하게 고려하는 영화 예매 사이트 - Final Project
 
-담당 역할 : 자주하는 질문 게시판, 공지사항 게시판
-개발 환경 : window, Apache Tomcat v8.5, Bootstrap, CSS, Spring Tool Suite 3, oracle DB, HTML5
-활용 기술 : CSS, HTML, JQuery, JSP, JSTL, Java, JavaScript, myBatis
+### 담당 역할 
+자주하는 질문 게시판, 공지사항 게시판
+
+### 개발 환경 
+window, Apache Tomcat v8.5, Bootstrap, CSS, Spring Tool Suite 3, oracle DB, HTML5
+
+### 활용 기술 
+CSS, HTML, JQuery, JSP, JSTL, Java, JavaScript, myBatis
 
 ## DB 설계
 ![BooM](https://user-images.githubusercontent.com/106478906/234247179-e0944af8-5c35-476e-b02a-c8c40fa82758.png)
