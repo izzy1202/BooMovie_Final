@@ -4,6 +4,12 @@
 ### 담당 역할 
 자주하는 질문 게시판, 공지사항 게시판
 
+### 팀원 수
+6명
+
+### 개발 기간
+2022년 12월 12일 ~ 2023년 01월 12일
+
 ### 개발 환경 
 window, Apache Tomcat v8.5, Bootstrap, CSS, Spring Tool Suite 3, oracle DB, HTML5
 
